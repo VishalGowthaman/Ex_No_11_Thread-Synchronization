@@ -26,11 +26,9 @@ Step 7: Save and run the application.
 
 ## Program:
  ```
-/*
 Program to create an Option Menu
-Developed by: Yuvadarshini S
-RegisterNumber: 212221230126 
-*/
+Developed by: Vishal Gowthaman K R
+RegisterNumber: 212221230123
 ```
 
 ## MainActivity.java:
